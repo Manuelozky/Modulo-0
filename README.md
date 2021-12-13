@@ -11,6 +11,8 @@
 - __Intruciones básicas de *Git*__
 - __intrucciones básicas de *Markdown*__
 
+![Lenguaje Markdown](https://i1.wp.com/www.silocreativo.com/wp-content/uploads/2019/05/markdown-cheatsheet.png?resize=1199%2C704&quality=100&strip=all&ssl=1)
+
 ~~~
 Ejercicios Módulo 0
 ~~~
